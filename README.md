@@ -5,7 +5,7 @@
 <a href="https:imatrixlabs.com" target="_blank"><img align="center" src="https://github.com/imatrixlab/imatrixlab/blob/main/imatrixlabs-logos.JPG" alt="IMATRIXLABS"/></a>
 
 - 🌎 All about details are on our web site: [IMATRIXLABS (PVT) LTD](https://imatrixlabs.com).
-- 📫 How to reach us: imatrixlabz@gmail.com/apply.imatrix@gmail.com/info@imatrixlabs.com
+- 📫 How to reach us: info@imatrixlabs.com
 - 💬 Ask us about BRANDING DESIGNS, CLOUD BASED SOLUTIONS, SOFTWARE DEVELOPMENTS, MOBILE APPLICATION DEVELOPMENTS, ENTERPRISE APPLICATION DEVELOPMENTS, and RESEARCH & DEVELOPMENTS(DATA SCIENCE).
 
 ## Connect with us
